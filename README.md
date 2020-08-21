@@ -5,8 +5,10 @@ Base Container Image for Github Actions Runner
 ## Getting Started
 
 ```bash
-./start
+make start
 ```
+
+Copy *configure* step from action runner's [setup](https://github.com/jstone28/action-runner-base/settings/actions/add-new-runner?arch=x64&os=linux).
 
 ## What's Inside
 
